@@ -1,10 +1,13 @@
 #ALX Software Engineer Intern
+
 I was accepted into ALX SE internship program (Cohort 9) August, 2022.
 I'll update this thread (readme) this time next year to know my level
 as a software engineer.
 
-##Learning Environment Setup
-You can support me to buy and setup my learning environment,
+
+#Learning Environment Setup
+
+Please you can support me to buy and setup my learning environment,
 it will enchance my learning.
 Thank you.
 
